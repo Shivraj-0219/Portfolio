@@ -668,8 +668,15 @@ img {
   .nav {
     height: 3rem;
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: none;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background-color: #0d0106;
+    
   }
   .nav__menu {
     display: flex;
@@ -680,7 +687,7 @@ img {
   }
   .nav__list {
     display: flex;
-    margin-left: 60rem;
+    margin-left: 42rem;
   }
   .nav__item {
     padding-top: 1rem;
@@ -726,15 +733,20 @@ img {
     margin-right: auto;
   }
   .tagline {
-    margin: 18rem 25rem auto 25rem;
+    margin-left: 12rem;
+    margin-right: 10rem;
     font-size: 2rem;
   }
   .hireme a {
-    margin: 25rem 26rem auto;
+    margin: 22rem 13rem;
     border: 0.1px double black;
+    background-color: black;
+  }
+  .hireme a:hover {
+    color: green;
   }
   .sort__box {
-    margin: 0rem 47.5rem 1rem 45rem;
+    margin-left: 37.5rem;
   }
   .about__description {
     margin-bottom: var(--mb-5);
