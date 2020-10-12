@@ -1,5 +1,5 @@
 Front End Development
-This is My First Personal Responsive Porfolio using basic HTML , CSS and JAVASCRIPT. Moving Forward I will utilize React and Redux for state management which would be most challenging part with continuing this project.Yep I noticed small bugs in laptop view will be soon corrected.
+This is My First Personal Responsive Porfolio using basic HTML , CSS and JAVASCRIPT. Moving Forward I will utilize React and Redux for state management which would be most challenging part with continuing this project.
 
 
 Live Link :
