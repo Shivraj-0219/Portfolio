@@ -660,7 +660,7 @@ img {
     max-width: 1200px;
   }
   .bd-grid1 {
-    max-width: 1200px;
+    max-width: 1600px;
     display: grid;
     grid-template-columns: 100%;
     width: calc(100% - 2rem);
